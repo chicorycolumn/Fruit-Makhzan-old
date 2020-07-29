@@ -57,7 +57,7 @@
             success: function (result) {
                 if (result['status'] == true) {
                     alert("Successfully Added New Fruit!");
-                    window.location.href = '/fruit_makhzan/play';
+                    window.location.href = '../play';
                 }
                 else {
                   console.log("else couldn't")

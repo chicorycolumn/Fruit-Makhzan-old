@@ -158,7 +158,7 @@ XHreq.onreadystatechange = function(){
 }
 
 //BROWSER PATH: http://localhost/fruit_makhzan/api/fruit/TARGET
-XHreq.open("GET", "/fruit_makhzan/api/fruit/read.php", true)
+XHreq.open("GET", "../api/fruit/read.php", true)
 XHreq.send();
 
 }

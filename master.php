@@ -11,9 +11,9 @@
 
   <header class="mainHeader">
  
-  <a href="/fruit_makhzan/home">Home</a>
-  <a href="/fruit_makhzan/play/create.php">Create</a>
-  <a href="/fruit_makhzan/play">Play</a>
+  <a href="../home">Home</a>
+  <a href="../play/create.php">Create</a>
+  <a href="../play">Play</a>
           
           
   </header>
